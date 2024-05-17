@@ -19,7 +19,7 @@
 </a>
 
 <!-- 네이버 -->
-<a href="mailto:songsu111@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=NaveMail&logoColor=white"/></a>
+<a href="mailto:songsu111@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <!--gmail -->
 <a href="mailto:songsu0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:songsu0111@gmail.com"/></a>
