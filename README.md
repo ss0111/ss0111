@@ -14,7 +14,7 @@
 <!--인스타그램 -->
 <a href="https://www.instagram.com/songss._.11/"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 ​
-<!-- 네이버 글자 따로 뱃지-->
+<!-- 네이버 글자 따로 뱃지--
 <a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/Naver-000?style=social&logo=naver&logoColor=03C75A&link=mailto:songsu111@naver.com"/>
 </a>
 
