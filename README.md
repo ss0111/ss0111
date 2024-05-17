@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/songss._.11/"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 ​
 <!-- 네이버 -->
-<a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
+<a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/?style=social&logo=naver&logoColor=03C75A"/></a>
 
 <!--gmail -->
 <a href="mailto:songsu0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:songsu0111@gmail.com"/></a>
