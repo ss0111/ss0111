@@ -10,7 +10,7 @@
 <h3>👋 Contact Me 👋</h3>
 <!--노션 -->
 <a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<br><br>
+<br>
 
 <!--인스타그램 -->
 <a href="https://www.instagram.com/songss._.11/"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
@@ -19,13 +19,12 @@
 <a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/Naver-000?style=social&logo=naver&logoColor=03C75A&link=mailto:songsu111@naver.com"/>
 </a>
 
-<!-- 네이버 -->
+<!-- 네이버 메일 -->
 <a href="mailto:songsu111@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-<!--gmail -->
+<!--Goole 메일 -->
 <a href="mailto:songsu0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:songsu0111@gmail.com"/></a>
 
----
   
   <h3>📚 Tech Stack 📚</h3>
   <p>💻 <b>Platforms & Programming Languages</b></p>
