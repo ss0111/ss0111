@@ -4,8 +4,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Soomin%20Lim&fontSize=70)
   
-  <a href="https://serendev.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Tistory&logoColor=white&link=https://serendev.tistory.com/"/></a> 
-  <a href="mailto:augustth511@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:augustth511@gmail.com"/></a>
+  <a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Tistory&logoColor=white&link=https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"/></a> 
+  <a href="mailto:songsu0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:songsu0111@gmail.com"/></a>
 
 ---
   
@@ -44,7 +44,7 @@
 
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim&theme=omni)](https://github.com/Soomin-Lim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhyun-Song&theme=omni)](https://github.com/Suhyun-Song/github-readme-stats)
   <br>
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
