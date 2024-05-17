@@ -1,12 +1,13 @@
-### Hi there 👋
+<!-- Hi there 👋 -->
 
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Suhyun%20Song&fontSize=70)
 
 <!--노션 
-<a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white&link=https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"/></a> 
+<a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white&link=https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"/></a> -->
 
+<h3>👋 Contact Me 👋</h3>
 <!--노션 -->
 <a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <br>
