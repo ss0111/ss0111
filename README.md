@@ -3,9 +3,16 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Suhyun%20Song&fontSize=70)
-  
+
+  <!--노션 -->
   <a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white&link=https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"/></a> 
-  <a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat&logo=Nvaer&logoColor=white&link=mailto:songsu111@naver.com"/></a>
+
+
+-- 인스타그램 뱃지
+<a href="https://www.instagram.com/songss._.11/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
+​
+
+<a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat&logo=Nvaer&logoColor=white&link=mailto:songsu111@naver.com"/></a>
 
 ---
   
