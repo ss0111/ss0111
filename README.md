@@ -8,11 +8,10 @@
 <a href="https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white&link=https://carnation-ant-66c.notion.site/89a9973361f1432085062972ab8c7d0e"/></a> 
 
  <!--인스타그램 -->
-<a href="https://www.instagram.com/songss._.11/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/songss._.11/"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 ​
 <!-- 네이버 -->
-<a href="mailto:songsu111@naver.com">
-<a href="https://blog.naver.com/lio97" target="_blank"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
+<a href="mailto:songsu111@naver.com"><img src="https://img.shields.io/badge/Blog-000?style=social&logo=naver&logoColor=03C75A"/></a>
 
 <!--gmail -->
 <a href="mailto:songsu0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:songsu0111@gmail.com"/></a>
